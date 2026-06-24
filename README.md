@@ -118,7 +118,7 @@ Chatbot baseado em **RAG (Retrieval-Augmented Generation)** com pipeline de embe
 #### 📊 GitAnalytics
 Plataforma de análise de repositórios com arquitetura de microsserviços: gateway em **Node.js**, serviço de análise em **Python/FastAPI** e dashboard em **React**, tudo orquestrado via **Docker Compose**.
 
-🔗 [Ver repositório](https://github.com/viniAG34/Git-analytics)
+🔗 [Ver repositório](https://github.com/viniAG34/Gitanalytics)
 
 #### ⚡ EnergyAnalytics Dashboard
 Projeto de análise de dados em **Python** voltado ao monitoramento inteligente de consumo de energia elétrica em ambientes corporativos e industriais. Automatiza o tratamento de dados, gera KPIs energéticos, identifica padrões de consumo e detecta anomalias operacionais através de um dashboard interativo em **Streamlit**.
