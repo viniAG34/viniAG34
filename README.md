@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Vinicius 👋</h1>
-<h3 align="center">Desenvolvedor Backend & AI Engineer | Automação de Processos com IA</h3>
+<h3 align="center">Desenvolvedor Fullstack & AI Engineer | Automação de Processos com IA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F2&center=true&vCenter=true&width=600&lines=Backend+Development;Intelligent+Automation+(n8n+%2B+RPA);AI+Agents+%26+Chatbots;Python+%7C+Node.js+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F2&center=true&vCenter=true&width=600&lines=Fullstack+Development;Intelligent+Automation+(n8n+%2B+RPA);AI+Agents+%26+Chatbots;Python+%7C+Node.js+%7C+FastAPI" alt="Typing SVG" />
 </p>
 
 <p align="center">
